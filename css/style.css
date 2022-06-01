@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#container{
+    width: 1368px;
+    height: 768px;
+    background: linear-gradient(purple, #F70251);
+}
+#container1{
+    width: 1368px;
+    height: 768px;
+    background: linear-gradient(purple, #F70251);
+    color: white;
+
+}
+/* #banner{
+    width: 100%;
+    height: 168px;
+    background: black;
+} */
+#menu{
+    width: 268px;
+    height: 600px;
+    margin-top: 0;
+    margin-left: 0;
+    background: linear-gradient(#F70251, purple);
+    line-height: 2rem;
+    color: white;
+    
+}
+#destaque{
+    width: auto;
+    height: 50px;
+    background: linear-gradient(purple, #F70251);
+    margin-top: -600px;
+    margin-left: 268px;
+    line-height: 2rem;
+    color: white;
+   /*  border-style: dashed; */
+    /* border-color: white; */
+}
+#novidade{
+    width: 550px;
+    height: 550px;
+    background: linear-gradient(#F70251, purple);
+    margin-left: 268px;
+    color:white;
+    line-height: 2rem;
+}
+#galeria{
+    width: 550px;
+    height: 550px;
+    background: linear-gradient(#F70251, purple);
+    margin-left: 818px;
+    margin-top: -550px;
+    color: white;
+}
+#footer{
+    width: auto;
+    height: 25px;
+    background: linear-gradient(purple, #F70251);
+    border: solid;
+    border-color: #F70251;
+    margin-top: -31px;
+    color: white;
+}
+#lista1{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    line-height: 2rem;
+}
+#img1{
+    width: 100%;
+    height: 100%;
+}
+
+#imggal1{
+    width: 125px;
+    height: 225px;
+}
+#imggal2{
+    width: 125px;
+    height: 225px;
+    margin-left: 10px;
+}
+#imggal3{
+    width: 125px;
+    height: 225px;
+}
+#imggal4{
+    width: 125px;
+    height: 225px;
+    margin-left: 10px;
+}
+#login{
+    width: 300px;
+    height: 250px;
+}
+#home{
+    width: 150px;
+    height: 150px;
+    margin-left: 0;
+    /* margin-right: 600px; */
+    justify-content: start;
+    text-align: start !important;
+    align-items: start !important ;
+}
+#homer, #homer1{
+    text-align: start;
+}
